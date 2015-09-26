@@ -1,0 +1,33 @@
+#edu{
+text-align:center;
+font-family:verdana;
+}
+
+#head1{
+font-family:verdana;
+}
+
+h3{
+font-style: Italic;
+}
+
+body {
+    background-color: #b0c4de;
+}
+
+table, th, td {
+    border: 1px solid black;
+	margin-left: 390px;
+	font-family: 'Slabo 27px', serif;
+    font-style: italic;
+}
+
+#info{
+text-align:center;
+font-family:verdana;
+}
+
+.edu1, .edu2, .resp1, .resp2,p, form{
+font-family: 'Slabo 27px', serif;
+font-style: italic;
+}
